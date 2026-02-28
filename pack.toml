@@ -1,0 +1,13 @@
+name = "Heavy Lvy Craft 2"
+author = "Heavy_Lvy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d050d98a84cb696fed416029596371a2394ef8733f56166ae901b8b858a6f5a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
