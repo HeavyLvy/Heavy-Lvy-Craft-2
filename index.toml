@@ -155,6 +155,11 @@ hash = "2488bf19149e671ab9fc63823029b19ebae6c4eeabb7ff748c0be341758a246b"
 metafile = true
 
 [[files]]
+file = "mods/playit-companion.pw.toml"
+hash = "fc2a256ff96cb36943d1b9e3319567afe597dd3b01aa968292d7b4f8da8577a8"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
