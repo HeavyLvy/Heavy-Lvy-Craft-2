@@ -104,11 +104,6 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "c5d9463a333c76d68273247bc3449060b4c58e5d8997536bc57b1de0953a6785"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -251,11 +246,6 @@ metafile = true
 [[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "2488bf19149e671ab9fc63823029b19ebae6c4eeabb7ff748c0be341758a246b"
-metafile = true
-
-[[files]]
-file = "mods/playit-companion.pw.toml"
-hash = "fc2a256ff96cb36943d1b9e3319567afe597dd3b01aa968292d7b4f8da8577a8"
 metafile = true
 
 [[files]]
