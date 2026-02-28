@@ -234,6 +234,11 @@ hash = "a50655001b949eb799fb0e4870da2ac1dc9f77511761038c8b6bce59171b8af9"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "1121ffc2012bbbf0b619a16b953d5951c41a9ef545285d01f31995b3ba6b2b8c"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "229d0e9d72e3210a98f39bd88e9cab16c5ec2e496ff3167a0bb1d074b58d7888"
 metafile = true
