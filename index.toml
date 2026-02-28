@@ -104,6 +104,11 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
