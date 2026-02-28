@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "2b284f9ec8b065472ebaef76e0f858aee36940c8a94eb61e9d4a4f4e9646c4c4"
+
+[[files]]
 file = "README.md"
-hash = "8b21ccd76091f2365bc3bb4e94ad6e1ddecc5ad08b29db703588bc9ec0bbf8f6"
+hash = "39df6c9965d2f9ad765be38f95911e424154fb565ce10963007aed085fec0c7e"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
