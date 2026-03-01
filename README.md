@@ -1,4 +1,9 @@
-# Heavy Lvy Craft 2
+<p align="center">
+  <img src="images/Heavy-Lvy.png" width="600"/>
+</p>
+<p align="center">
+  <img src="images/Craft-II.png" width="300"/>
+</p>
 
 To build mod pack for Modrinth or Curseforge run
 
